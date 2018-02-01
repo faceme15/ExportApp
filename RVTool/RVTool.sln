@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rvshell", "rvshell\rvshell.csproj", "{119CF675-F5D1-4223-83CA-25019BD311DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rvvisual", "rvvisual\rvvisual.csproj", "{29AA8256-F000-48C2-A3E9-ED26A384E97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119CF675-F5D1-4223-83CA-25019BD311DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119CF675-F5D1-4223-83CA-25019BD311DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119CF675-F5D1-4223-83CA-25019BD311DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119CF675-F5D1-4223-83CA-25019BD311DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29AA8256-F000-48C2-A3E9-ED26A384E97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AA8256-F000-48C2-A3E9-ED26A384E97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AA8256-F000-48C2-A3E9-ED26A384E97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AA8256-F000-48C2-A3E9-ED26A384E97D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACED703B-2941-4992-AE85-02D30AC6CE18}
+	EndGlobalSection
+EndGlobal
